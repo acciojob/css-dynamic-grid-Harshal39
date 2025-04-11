@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
 .grid-container{
 	display:grid;
+	gap:10px;
 }
 
 .grid-item{
